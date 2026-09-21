@@ -27,3 +27,6 @@ Il frontend è statico; Supabase gestisce autenticazione, API, dati e logica app
 
 ## GitHub Pages
 Il progetto usa HashRouter e GitHub Actions per il deploy su Pages.
+
+
+<!-- CI deployment trigger -->
